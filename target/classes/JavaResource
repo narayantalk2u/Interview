@@ -1,0 +1,26 @@
+1. Java Statistics Aggregator (jstat)
+Java Statistics Aggregator or jstat is a utility tool to display performance statistics for an instrumented hotspot
+JVM (Java virtual machine). This command is used when you encounter a runtime problem.
+
+2. Java Dependency Manager (jdeps)
+Java Dependency Manager or jdeps is a Java class dependency analyser that is used to suggest the users with
+relatively new and more functional APIs that can replace the older ones without making any compromise to the
+functionality. Not only this, jdeps is useful for quickly identifying the static dependencies of applications
+and libraries.
+
+3. Java Compiler (javac)
+One of the most useful and the most popular command-line tools among developers, Java Compiler (javac) is used
+for troubleshooting the problems when and if arise in the project’s build and deployment pipeline.
+
+4. Java Profiler (javap)
+The main use of Java Profiler or javap command-line tool is to reverse the compilation and separate the class files
+so that the users can know what’s inside them. Java Profiler is popularly known as ‘disassembler’ that people don’t
+use so often. It helps to know how a particular statement works.
+
+5. Java Archive Utility (jar)
+Java Archive Utility that is also called jar is used to create a compressed archive file. This utility comes handy
+when comparing one version of the code release with the other.
+
+6. JVM Process Status Tool (jps)
+JPS or t Java Process Status tool works independently in an operating system to provide a convenient way to determine
+process ID (PID) of the Java process.
